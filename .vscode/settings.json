@@ -1,0 +1,4 @@
+{
+  // Prevent background downloads from SchemaStore when the service is unavailable
+  "json.schemaDownload.enable": false
+}
